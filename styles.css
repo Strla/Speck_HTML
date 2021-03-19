@@ -156,3 +156,8 @@ body {
     border-color: #e4b43c;
     background: #e4b43c;
 }
+
+.title{
+    margin-top: 100px;
+    text-align: center;
+}
